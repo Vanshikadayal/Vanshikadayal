@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Vanshikadayal
-- 👀 I’m interested in Blockchain and AI...
+- 👀 I’m interested in Blockchain and AI enthuiast.
 - 🌱 I’m currently learning  DSA and cross platform App development using react native
-- 💞️ I’m looking to collaborate on frontend projects and complex management systems ...
-- 📫 How to reach me you can email me on vanshikadayal06@gmail.com...
-  
-
+- 💞️ I’m looking to collaborate on frontend projects and complex management systems.
+- 📫 How to reach me you can email me on vanshikadayal06@gmail.com.
+ <br> 
+Author - Vanshika dayal
 
 <!---
 Vanshikadayal/Vanshikadayal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
